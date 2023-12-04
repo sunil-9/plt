@@ -96,23 +96,20 @@ Course Contents:
 
 ## 5. Standalone and Client Server Programming Concept 8 hours
 
-5.1. Introduction to standalone Programming concept
-5.1.5 Advantage and limitations of Standalone Programming
-5.2 Introduction to Client Server Programming (CSP)
-5.2.1 Advantages and Disadvantages of CSP
-5.2.2 Distinguish between Standalone and Client Server Programming
-5.2.3 Client Server Programming Architecture
-5.4 Introduction to Web-based Programming
-5.5 Advantages and Disadvantages of web-based programs
-5.5.1 Architecture of web-based programming
-
-5.5.2 Web-based System and Programming
-
-5.6 Introduction to a few web based languages and their capabilities
-
-5.7 Requirement of Platform-Independents system
+    5.1. Introduction to standalone Programming concept
+     5.1.5 Advantage and limitations of Standalone Programming
+    5.2 Introduction to Client Server Programming (CSP)
+        5.2.1 Advantages and Disadvantages of CSP
+        5.2.2 Distinguish between Standalone and Client Server Programming
+        5.2.3 Client Server Programming Architecture
+    5.4 Introduction to Web-based Programming
+    5.5 Advantages and Disadvantages of web-based programs
+     5.5.1 Architecture of web-based programming
+      5.5.2 Web-based System and Programming
+    5.6 Introduction to a few web based languages and their capabilities
+    5.7 Requirement of Platform-Independents system
 
 ReferenceBooks:
 
-**1. V.K. Jain: Computer Fundamentals, BPB Publication**
-**2. Foundations of Computing, BPB Publication (Third Edition)**
+### 1. V.K. Jain: Computer Fundamentals, BPB Publication
+### 2. Foundations of Computing, BPB Publication (Third Edition)
