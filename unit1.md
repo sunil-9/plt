@@ -1,4 +1,4 @@
-# Programming Languages – Programming Logic and Techniques
+# Programming Languages
 
 To perform any action on the data given by the user, a computer requires instructions. A program is a set of instructions provided to a computer to do certain activities. The program specifies the actions that a computer should take. A program instructs a computer on how to process and execute data.
 
