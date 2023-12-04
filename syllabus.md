@@ -9,6 +9,10 @@ Course Objectives:
 
 This course is designed to acquaint the student with the concept off fundamental problem analysis, modeling and coding techniques.
 
+<!-- add image image.png -->
+
+[![image](images.jfif)](https://www.youtube.com/watch?v=Z9dWb0E55vo)
+
 Course Contents:
 
 ## 1. Programming Languages 14 hours
