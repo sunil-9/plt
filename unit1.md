@@ -1,4 +1,4 @@
-# Programming Languages
+# unit 1 - Programming Languages
 
 To perform any action on the data given by the user, a computer requires instructions. A program is a set of instructions provided to a computer to do certain activities. The program specifies the actions that a computer should take. A program instructs a computer on how to process and execute data.
 
@@ -703,7 +703,7 @@ A programming language translator is a tool or software that converts source cod
 
 
 
-## linker
+## Linker
 
 A linker is a utility program that plays a crucial role in the process of converting source code into an executable program. It combines object files produced by the compiler and resolves references between them, creating a single executable file that can be run by the operating system. The linker performs several important operations to link various parts of a program together.
 
@@ -736,17 +736,13 @@ A linker is a utility program that plays a crucial role in the process of conver
    - **Advantages:** Allows for smaller executables and shared code among multiple programs. Updates to shared libraries can be done independently.
    - **Disadvantages:** Requires the presence of shared libraries during execution.
 
-3. **Loader:**
-   - **Functionality:** Loads the executable into memory for execution, resolving memory addresses and initializing the program.
-   - **Advantages:** Allows for flexibility in loading and executing programs. Can handle relocation of code during runtime.
-   - **Disadvantages:** May introduce some overhead in loading and linking dynamically.
-
 4. **Smart (Incremental) Linker:**
    - **Functionality:** Links only the parts of the code that have changed since the last compilation, reducing the time needed for linking.
    - **Advantages:** Faster build times for large projects, especially during development.
    - **Disadvantages:** Complexity in tracking changes and dependencies.
 
-   ## Loader
+   
+## Loader
 
 A loader is a utility program that performs the essential task of loading executable files into the computer's memory for execution. Its primary function is to prepare the program for execution by allocating memory space, resolving addresses, and initializing various data structures. The loader plays a crucial role in the execution phase of a program. Here are the basic functions and types of loaders:
 

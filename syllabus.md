@@ -9,9 +9,7 @@ Course Objectives:
 
 This course is designed to acquaint the student with the concept off fundamental problem analysis, modeling and coding techniques.
 
-<!-- add image image.png -->
-
-[![image](images.jfif)](https://www.youtube.com/watch?v=Z9dWb0E55vo)
+[![image](images.jfif)]()
 
 Course Contents:
 
