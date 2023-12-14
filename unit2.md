@@ -20,7 +20,7 @@ Key components of software development include:
    - **Architectural Design:** Creating a high-level structure of the software, defining components and their relationships.
    - **Detailed Design:** Developing detailed specifications for each component, including algorithms, data structures, and interfaces.
 
-3. **Implementation:**
+3. **Development:**
 
    - **Coding:** Writing the actual source code in a programming language.
    - **Unit Testing:** Verifying the functionality of individual units or modules of code.
@@ -31,7 +31,7 @@ Key components of software development include:
    - **System Testing:** Assessing the entire system to ensure it meets the specified requirements.
    - **User Acceptance Testing (UAT):** Evaluating the software with end-users to ensure it meets their expectations.
 
-5. **Deployment:**
+5. **Deployment/Implementation:**
 
    - **Installation:** Deploying the software in a production environment.
    - **Training:** Providing training to end-users and support staff.
