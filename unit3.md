@@ -1,4 +1,4 @@
-#  Programming Techniques:
+# Unit 3 -Programming Techniques:
 ## Introduction to Programming Techniques:
 
 Programming is the process of designing and building an executable computer program to accomplish a specific task. Programming techniques refer to the various approaches and methodologies used by programmers to write efficient, readable, and maintainable code. These techniques are essential for solving problems and creating software applications. Here are some fundamental programming techniques:
