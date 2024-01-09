@@ -1229,7 +1229,7 @@ A flowchart is a graphical representation of a process, system, or algorithm. It
 ![flowchart example](flowchart1.png)
 ![flowchart example](flowchart2.png)
 
-## Design Table
+## Decision Table
 
 A decision table is a structured representation of decision logic, often used in software development, business analysis, and decision analysis. It provides a systematic way to represent complex decision-making processes and conditions. Decision tables are particularly useful for capturing business rules, creating test cases, and designing decision-based systems. Here are the key components and concepts related to decision tables:
 
