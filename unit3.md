@@ -983,9 +983,11 @@ The Prototype Model is a software development model where a prototype (a partial
 
 ## Iterative Model
 
+![Iterative](./Iterative-Model.png)
+
 The Iterative Model is an approach to software development where the development process is divided into smaller cycles or iterations. Each iteration goes through the entire software development life cycle, including planning, requirements, design, implementation, testing, and deployment. After each iteration, the software is improved and refined based on feedback received during the previous cycles. Here are the advantages and disadvantages of the Iterative Model:
 
-![Iterative](./Iterative-Model.png)
+![Iterative](./Iterative-Waterfall-Model.png)
 
 **Advantages of the Iterative Model:**
 
