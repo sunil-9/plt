@@ -772,7 +772,7 @@ Here are some fundamental concepts and features of Object-Oriented Programming:
 ## Waterfall Model
 
 The Waterfall Model is a linear and sequential approach to software development, where each phase of the development process must be completed before moving on to the next. The phases typically include requirements analysis, system design, implementation, testing, deployment, and maintenance. Here are the advantages and disadvantages of the Waterfall Model:
-
+![waterfall](./waterfall.jpg)
 **Advantages of the Waterfall Model:**
 
 1. **Simplicity:**
@@ -834,6 +834,7 @@ The Waterfall Model is a linear and sequential approach to software development,
 ## Spiral Model
 
 The Spiral Model is a software development model that combines the iterative nature of prototyping with the systematic aspects of the Waterfall Model. It emphasizes risk assessment and management throughout the development process. The model is represented as a spiral, and each loop of the spiral represents a phase in the software development life cycle. Here are the advantages and disadvantages of the Spiral Model:
+![spiral](./spiral.png)
 
 **Advantages of the Spiral Model:**
 
@@ -905,10 +906,12 @@ The Spiral Model is a software development model that combines the iterative nat
 | **Cost Management**     | Generally lower costs, but changes can be costly if implemented late                      | May have higher development costs due to iterative nature and thorough risk analysis      |
 
 ## Prototype or Transformation Model
+![Prototype](./prototype-model.png)
 
 It seems there might be a slight confusion in the term "Transformation Model." However, I'll provide information about the Prototype Model and Transformational Leadership separately.
 
 ### Prototype Model:
+![Prototype](./Prototype.jpg)
 
 **Prototype Model:**
 
@@ -978,6 +981,7 @@ The Prototype Model is a software development model where a prototype (a partial
 ## Iterative Model
 
 The Iterative Model is an approach to software development where the development process is divided into smaller cycles or iterations. Each iteration goes through the entire software development life cycle, including planning, requirements, design, implementation, testing, and deployment. After each iteration, the software is improved and refined based on feedback received during the previous cycles. Here are the advantages and disadvantages of the Iterative Model:
+![Iterative](./Iterative-Model.png)
 
 **Advantages of the Iterative Model:**
 
@@ -1045,9 +1049,10 @@ The Iterative Model is an approach to software development where the development
 7. **Increased Management Overhead:**
    - Managing multiple iterations and ensuring alignment with project goals may require additional management overhead. Effective communication and coordination become critical.
 
-## The V-Model
+## The V-Model(Verification and Validation Model)
 
 The V-Model, also known as the Verification and Validation Model, is a software development and testing methodology that emphasizes the relationship between each development phase and its corresponding testing phase. It is an extension of the Waterfall Model and provides a structured approach to software development. The name "V-Model" is derived from the visual representation of the model, which resembles the letter 'V' due to the sequential progression of phases.
+![v-model](./v-model.png)
 
 Here are the key features and phases of the V-Model:
 
@@ -1089,6 +1094,7 @@ Here are the key features and phases of the V-Model:
 ## Rapid Application Development (RAD) model
 
 The Rapid Application Development (RAD) model is an iterative and incremental software development methodology that prioritizes rapid prototyping and quick feedback over extensive planning and testing. RAD is designed to accelerate the development process and quickly deliver functional software. This model is particularly suitable for projects with well-defined requirements and a focus on user interfaces.
+![Rapid Application Development](./RAD-Model.png)
 
 Key characteristics of the Rapid Application Development (RAD) model include:
 
@@ -1164,6 +1170,7 @@ Key characteristics of the Rapid Application Development (RAD) model include:
 ## The Big Bang Model
 
 The Big Bang Model is a software development model that is characterized by minimal planning and a focus on coding and building software without following a specific process or methodology. The name "Big Bang" is derived from the idea that development begins with a burst of activity, similar to the rapid expansion of the universe in the cosmological Big Bang theory.
+![Big Bang](./bigbang.png)
 
 Key features of the Big Bang Model include:
 
@@ -1231,6 +1238,7 @@ Key features of the Big Bang Model include:
 ## The Evolutionary Model
 
 The Evolutionary Model is a software development model that emphasizes the iterative and incremental development of software. It involves building and improving a system gradually, based on the continuous feedback received from users and stakeholders. The Evolutionary Model acknowledges that requirements may evolve and change over time, and it seeks to accommodate these changes through flexible and adaptive development cycles.
+![Evolutionary model](./evoluationary_model.png)
 
 Key characteristics of the Evolutionary Model include:
 
